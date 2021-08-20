@@ -131,6 +131,20 @@ Patch11: 0012-xen-blkfront-prepare-request-locally-only-then-put-i.patch
 Patch12: 0013-xen-pcifront-pciback-Update-pciif.h-with-err-and-res.patch
 Patch14: 0001-Revert-xen-netback-Check-for-hotplug-status-existenc.patch
 Patch15: 0002-Revert-xen-netback-remove-hotplug-status-once-it-has.patch
+Patch16: 3001-applesmc-convert-static-structures-to-drvdata.patch
+Patch17: 3002-applesmc-make-io-port-base-addr-dynamic.patch
+Patch18: 3003-applesmc-switch-to-acpi_device-from-platform.patch
+Patch19: 3004-applesmc-key-interface-wrappers.patch
+Patch20: 3005-applesmc-basic-mmio-interface-implementation.patch
+Patch21: 3006-applesmc-fan-support-on-T2-Macs.patch
+Patch22: 4003-HID-apple-Add-support-for-MacBookPro15-2-keyboard-tr.patch
+Patch23: 5001-brcmfmac-move-brcmf_mp_device-into-its-own-header.patch
+Patch24: 5002-brcmfmac-Add-ability-to-manually-specify-FW-rambase-.patch
+Patch25: 6001-media-uvcvideo-Add-support-for-Apple-T2-attached-iSi.patch
+Patch26: 7001-drm-i915-fbdev-Discard-BIOS-framebuffers-exceeding-h.patch
+Patch27: 8001-brcmfmac-Add-initial-support-for-the-BRCM4355.patch
+Patch28: 8002-brcmfmac-Add-initial-support-for-the-BRCM4377.patch
+Patch29: 9001-brcmfmac-p2p-Ensure-virtual-interface-is-initialized.patch
 
 %description
 Qubes Dom0 kernel.
